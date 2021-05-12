@@ -1,4 +1,1 @@
 requests
-termcolor
-pyfiglet
-simplejson
